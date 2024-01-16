@@ -1,0 +1,5 @@
+There are 7 nodes in the graph.
+
+There no edges in this graph
+There are no edges
+There are no edges

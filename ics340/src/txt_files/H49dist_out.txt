@@ -1,0 +1,14 @@
+
+
+**** SOLUTION:
+Shortest Path from Stillwater (k) to Ely (e).
+
+PATH                            DIST           HEUR           F-VALUE
+       
+k                               0              214            214            
+
+k-V                             147            47             194            
+
+k-V-e                           194            0              194            
+
+DelivC: implementation.

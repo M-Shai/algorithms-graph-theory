@@ -1,0 +1,91 @@
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix D^0
+Vertex A      B      C      D      
+A      0      2      ~      2      
+B      0      0      ~      2      
+C      1      -1     0      ~      
+D      ~      -1     -2     0      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix P^0
+Vertex A      B      C      D      
+A      -      A      -      A      
+B      B      -      -      B      
+C      C      C      -      -      
+D      -      D      D      -      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix D^1
+Vertex A      B      C      D      
+A      0      2      ~      2      
+B      0      0      ~      2      
+C      1      -1     0      3      
+D      ~      -1     -2     0      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix P^1
+Vertex A      B      C      D      
+A      -      A      -      A      
+B      B      -      -      B      
+C      C      C      -      A      
+D      -      D      D      -      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix D^2
+Vertex A      B      C      D      
+A      0      2      ~      2      
+B      0      0      ~      2      
+C      -1     -1     0      1      
+D      -1     -1     -2     0      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix P^2
+Vertex A      B      C      D      
+A      -      A      -      A      
+B      B      -      -      B      
+C      B      C      -      B      
+D      B      D      D      -      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix D^3
+Vertex A      B      C      D      
+A      0      2      ~      2      
+B      0      0      ~      2      
+C      -1     -1     0      1      
+D      -3     -3     -2     -1     
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix P^3
+Vertex A      B      C      D      
+A      -      A      -      A      
+B      B      -      -      B      
+C      B      C      -      B      
+D      C      C      D      C      
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix D^4
+Vertex A      B      C      D      
+A      -1     -1     0      1      
+B      -1     -1     0      1      
+C      -2     -2     -1     0      
+D      -4     -4     -3     -2     
+
+*** A negative cylce exist in the graph. ***
+
+Value Matrix P^4
+Vertex A      B      C      D      
+A      D      D      D      D      
+B      D      D      D      D      
+C      D      D      D      D      
+D      D      D      D      D      
+DelivD: implementation.
